@@ -1,0 +1,54 @@
+/.metadata/
+
+# Java class files
+*.class
+
+# Jar files
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# Eclipse specific files
+.project
+.classpath
+.settings/
+.metadata/
+
+# Maven build directory
+/target/
+
+# Gradle build files
+/build/
+
+# IDEA specific
+*.iml
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Backup and temp files
+*.bak
+*.tmp
+*.swp
+*~
+
+# Environment specific
+.env
+
+# Output or cache folders
+out/
+bin/
+
+# Test result files
+*.ser
+test-output/
+
+# VS Code config if using
+.vscode/
+
+failed_screenshots/
