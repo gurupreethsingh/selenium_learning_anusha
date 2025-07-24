@@ -4,7 +4,7 @@ public class Pattern10 {
 
 	public static void main(String[] args)
 	{
-		 int num = 1; 
+	  int num = 1; 
 	  for(int i = 1; i<=5 ; i++)
 	  {
          	int k = 1; 
